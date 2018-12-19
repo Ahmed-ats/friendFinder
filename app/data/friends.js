@@ -19,7 +19,7 @@ var friends = [
       
 },
 {
-    "name":"Holli",
+    "name":"Frank",
     "photo":"https://i.redd.it/spo5q1n66gg11.jpg",
     "scores":[
         5,
